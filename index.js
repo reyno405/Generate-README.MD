@@ -50,3 +50,13 @@ let questions = [
 
 
 // Function to write to my ReadMe.md file. //
+inquirer.prompt(questions).then(function(response) {
+    console.log(response);
+    
+     var content = fileGenerator(response);
+     console.log(content);
+      fs.writeFile("./ReadMe.md", content, function(err){
+          if (err) throw err
+          console.log("success");
+      });
+ } ); 
