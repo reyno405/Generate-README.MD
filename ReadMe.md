@@ -13,7 +13,10 @@
 ###### [Back to Table of Contents](#Table-of-Contents)
     d
     
-    
+## References
+###### [Back to Table of Contents](#Table-of-Contents)
+    1.  s
+       
     
 ## User Story
 
@@ -30,23 +33,23 @@
     9.   I want to click on the links in the Table of Contents; and then, I am taken to the corresponding section of the README.
     
 ### Contribution Guidelines
-    ###### [Back to Table of Contents](#Table-of-Contents)
-    d
+###### [Back to Table of Contents](#Table-of-Contents)
+    s
     
 
 ## Overview: What We Accomplished!
-### Workflow [Back to Table of Contents](#Table-of-Contents)
-    d
+###### [Back to Table of Contents](#Table-of-Contents)
+    s
     
     
 ### Screenshots (Building this application)
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Demo I createad ![script.js](d)
+#### Demo I createad ![script.js](s)
     
   
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
-    d
+    s
     
 ## License
     APACHE 2.O

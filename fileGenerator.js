@@ -14,7 +14,10 @@ function fileGenerator(response) {
 ###### [Back to Table of Contents](#Table-of-Contents)
     ${response.description}
     
-    
+## References
+###### [Back to Table of Contents](#Table-of-Contents)
+    1.  ${response.ref1}
+       
     
 ## User Story
 
@@ -31,12 +34,12 @@ function fileGenerator(response) {
     9.   I want to click on the links in the Table of Contents; and then, I am taken to the corresponding section of the README.
     
 ### Contribution Guidelines
-    ###### [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
     ${response.contribute}
     
 
 ## Overview: What We Accomplished!
-### Workflow [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
     ${response.accomplish}
     
     
@@ -50,6 +53,7 @@ function fileGenerator(response) {
     ${response.endgoal}
     
 ## License
+###### [Back to Table of Contents](#Table-of-Contents)
     ${response.license}
     
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.

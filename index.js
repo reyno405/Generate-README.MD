@@ -36,7 +36,10 @@ let questions = [
         type: "input",
         message: "Please describe the repository.",
         name: "description"
-
+    }, {
+        type: "input",
+        message: "Please supply one references (1/1).",
+        name: "ref1"
     }, {
         type: "input",
         message: "Please state if others can contribute.",
@@ -47,7 +50,7 @@ let questions = [
         name: "accomplish"
     }, {
         type: "input",
-        message: "Please state provide a screenshot (1 of 3).",
+        message: "Please state provide a screenshot.",
         name: "scriptjs"
     }, {
         type: "input",
