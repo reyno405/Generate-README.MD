@@ -46,10 +46,10 @@ function fileGenerator(response) {
     
   
 ## Repositiory End-Goal Criterea
-    ###### [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
     ${response.endgoal}
     
-    ## License
+## License
     ${response.license}
     
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
