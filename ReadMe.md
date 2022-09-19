@@ -48,12 +48,12 @@ d
     
 ### Screenshots (Building this application)
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Demo I createad ![script.js](d)
+#### Demo I createad ![script.js]([![Screenshot-8.png](https://i.postimg.cc/vHmXxyq5/Screenshot-8.png)](https://postimg.cc/mh07KvGr))
     
   
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
-    d
+    s
     
 ## License
 ###### [Back to Table of Contents](#Table-of-Contents)
