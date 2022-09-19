@@ -20,7 +20,7 @@ function fileGenerator(response) {
     I WANT a README generator
     SO THAT I can quickly create a professional README for a new project
 
-    ### As the Quiz Administrator
+    ### Acceptance Criteria
     ###### [Back to Table of Contents](#Table-of-Contents)
     1.   I a command-line application that accepts user input.
     2.   I want to be prompted for information about my application repository.
@@ -38,28 +38,10 @@ function fileGenerator(response) {
     
 
     ## Overview: What We Accomplished!
-    ### Workflow [Back to Table of Contents](#Table-of-Contents)
-    ${response.accomplish}
-    
-    
+  
     ### Screenshots (Building this application)
     ###### [Back to Table of Contents](#Table-of-Contents)
-    #### Demo I createad ![script.js](${response.scriptjs})
-    
-    #### Demo I createad ![fileGenerator.js](${response.fileGnerator})
-    
-    #### Demo I createad ![ReadMe.md](${response.ReadMe})
-    
-    
-    ## References
-    ###### [Back to Table of Contents](#Table-of-Contents)
-    1.  ${response.ref1}
-    
-    2.  ${response.ref2}
-    
-    ## Repositiory End-Goal Criterea
-    ###### [Back to Table of Contents](#Table-of-Contents)
-    ${response.endgoal}
+  
     
     ## License
     ${response.license}
