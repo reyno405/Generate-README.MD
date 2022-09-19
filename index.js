@@ -11,10 +11,6 @@ let questions = [
         name: "title"
     }, {
         type: "input",
-        message: "Please give your logo information.",
-        name: "logo"
-    }, {
-        type: "input",
         message: "What is your GitHub user name?",
         name: "userName"
     }, {
@@ -51,13 +47,13 @@ let questions = [
 
 
 // Function to write to my ReadMe.md file. //
-inquirer.prompt(questions).then(function(response) {
+inquirer.prompt(questions).then(function (response) {
     console.log(response);
-    
-     const content = fileGenerator(response);
-     console.log(content);
-      fs.writeFile("./ReadMe.md", content, function(err){
-          if (err) throw err
-          console.log("success");
-      });
- } ); 
+
+    const content = fileGenerator(response);
+    console.log(content);
+    fs.writeFile("./ReadMe.md", content, function (err) {
+        if (err) throw err
+        console.log("success");
+    });
+}); 
