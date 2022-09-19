@@ -42,6 +42,10 @@ let questions = [
         name: "ref1"
     }, {
         type: "input",
+        message: "What are the steps required to install your project?",
+        name: "installation"
+    }, {
+        type: "input",
         message: "Please state if others can contribute.",
         name: "contribute"
     }, {

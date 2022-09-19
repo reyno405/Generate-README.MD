@@ -8,8 +8,12 @@ function fileGenerator(response) {
 * [User Story](#User-Story)
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Contribution Guidelines](#Contribution-Guidelines)
-
+* [License](#License)
     
+# Installation
+###### [Back to Table of Contents](#Table-of-Contents)
+${response.installation}
+
 # Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
     ${response.description}

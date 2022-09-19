@@ -7,15 +7,19 @@
 * [User Story](#User-Story)
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Contribution Guidelines](#Contribution-Guidelines)
-
+* [License](#License)
     
+# Installation
+###### [Back to Table of Contents](#Table-of-Contents)
+d
+
 # Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
     d
     
 ## References
 ###### [Back to Table of Contents](#Table-of-Contents)
-    1.  s
+    1.  d
        
     
 ## User Story
@@ -34,24 +38,25 @@
     
 ### Contribution Guidelines
 ###### [Back to Table of Contents](#Table-of-Contents)
-    s
+    d
     
 
 ## Overview: What We Accomplished!
 ###### [Back to Table of Contents](#Table-of-Contents)
-    s
+    d
     
     
 ### Screenshots (Building this application)
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Demo I createad ![script.js](s)
+#### Demo I createad ![script.js](d)
     
   
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
-    s
+    d
     
 ## License
+###### [Back to Table of Contents](#Table-of-Contents)
     APACHE 2.O
     
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
