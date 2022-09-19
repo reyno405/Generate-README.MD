@@ -5,6 +5,9 @@ function fileGenerator(response) {
     
 ## Table of Contents
 * [Repository Description](#Repository-Description)
+* [User Story](#User-Story)
+* [Acceptance Criteria](#Acceptance-Criteria)
+* [Contribution Guidelines](#Contribution-Guidelines)
 
     
 # Repository Description
@@ -41,13 +44,7 @@ function fileGenerator(response) {
 ###### [Back to Table of Contents](#Table-of-Contents)
 #### Demo I createad ![script.js](${response.scriptjs})
     
-#### Demo I createad ![fileGenerator.js](${response.fileGnerator})
-    
-   
-    
-    
-   
-    
+  
 ## Repositiory End-Goal Criterea
     ###### [Back to Table of Contents](#Table-of-Contents)
     ${response.endgoal}

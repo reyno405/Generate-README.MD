@@ -1,14 +1,17 @@
-# d
-##### undefined[d](d) [Email Me](d) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
+# f
+##### undefined[f](f) [Email Me](f) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
 #### ReadMeGenerator© 2022 All Rights Reserved.  APACHE 2.O All material must be cited or credited, when using material (free to use).
     
 ## Table of Contents
 * [Repository Description](#Repository-Description)
+* [User Story](#User-Story)
+* [Acceptance Criteria](#Acceptance-Criteria)
+* [Contribution Guidelines](#Contribution-Guidelines)
 
     
 # Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
-    d
+    f
     
     
     
@@ -28,28 +31,22 @@
     
 ### Contribution Guidelines
     ###### [Back to Table of Contents](#Table-of-Contents)
-    d
+    f
     
 
 ## Overview: What We Accomplished!
 ### Workflow [Back to Table of Contents](#Table-of-Contents)
-    d
+    f
     
     
 ### Screenshots (Building this application)
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Demo I createad ![script.js](d)
+#### Demo I createad ![script.js](f)
     
-#### Demo I createad ![fileGenerator.js](undefined)
-    
-   
-    
-    
-   
-    
+  
 ## Repositiory End-Goal Criterea
     ###### [Back to Table of Contents](#Table-of-Contents)
-    d
+    f
     
     ## License
     APACHE 2.O
