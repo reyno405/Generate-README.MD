@@ -1,7 +1,6 @@
-function fileGenerator(response) {
-    var content = `# ${response.title}
-##### ${response.logo}[${response.userName}](${response.GitHub}) [Email Me](${response.email})
-#### ReadMeGenerator© 2022 All Rights Reserved.  ${response.license} All material must be cited or credited, when using material (free to use).
+# Generate-README.MD
+    ##### undefined[reyno405](https://github.com/reyno405) [Email Me](reyno405@gmail.com)
+    #### ReadMeGenerator© 2022 All Rights Reserved.  None All material must be cited or credited, when using material (free to use).
     
     ## Table of Contents
     * [Repository Description](#Repository-Description)
@@ -11,9 +10,9 @@ function fileGenerator(response) {
     * [Repositiory End-Goal Criterea](#Criterea)
     * [Future Project](#Future-Project)
     
-    # Repository Description
+# Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
-    ${response.description}
+    This application was created to generate a high-quality, professional README depending on a series of questions a user answers in their command line using Node.js
     
 ## User Story
     AS A developer
@@ -34,21 +33,17 @@ function fileGenerator(response) {
     
 ### Contribution Guidelines
 ###### [Back to Table of Contents](#Table-of-Contents)
-    ${response.contribute}
+    none
     
 
 ## Overview: What We Accomplished!
   
 ### Screenshots (Building this application)
-    ###### [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
   
     
 ## License
-    ${response.license}
+    None
     
     
-    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:`
-    return content;
-};
-
-module.exports = fileGenerator;
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
