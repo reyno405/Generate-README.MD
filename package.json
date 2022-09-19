@@ -1,5 +1,23 @@
 {
   "dependencies": {
-    "inquirer": "^9.1.1"
-  }
+    "inquirer": "^8.2.4"
+  },
+  "name": "generate-readme.md",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reyno405/Generate-README.MD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reyno405/Generate-README.MD/issues"
+  },
+  "homepage": "https://github.com/reyno405/Generate-README.MD#readme"
 }
