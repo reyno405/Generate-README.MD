@@ -41,9 +41,22 @@ let questions = [
         type: "input",
         message: "Please state if others can contribute.",
         name: "contribute"
+    }, {
+        type: "input",
+        message: "State your accomplishments.",
+        name: "accomplish"
+    }, {
+        type: "input",
+        message: "Please state provide a screenshot (1 of 3).",
+        name: "scriptjs"
+    }, {
+        type: "input",
+        message: "Please state your end-goal.",
+        name: "endgoal"
     }
-
 ];
+
+
 
 
 // Function to write to my ReadMe.md file. //

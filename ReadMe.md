@@ -1,26 +1,25 @@
-# README
-# undefined[reyno405](https://github.com/reyno405) [Email Me](reyno405@gmail.com)
-# ReadMeGenerator© 2022 All Rights Reserved.  None All material must be cited or credited, when using material (free to use).
+# d
+    ##### undefined[d](d) [Email Me](d) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
+    #### ReadMeGenerator© 2022 All Rights Reserved.  APACHE 2.O All material must be cited or credited, when using material (free to use).
     
-# Table of Contents
-    
-# [Repository Description](#Repository-Description)
-# [Installation Instructions](#Install)
-# [Usage Information](#Usage)
-# [Repositiory End-Goal Criterea](#Criterea)
-    
+## Table of Contents
+* [Repository Description](#Repository-Description)
+* [Installation Instructions](#Install)
+* [Usage Information](#Usage)
+* [References](#Ref)
+* [Repositiory End-Goal Criterea](#Criterea)
+* [Future Project](#Future-Project)
     
 # Repository Description
-# [Back to Table of Contents](#Table-of-Contents)
-    This application was created to generate a high-quality, professional README depending on a series of questions a user answers in their command line using Node.js
+###### [Back to Table of Contents](#Table-of-Contents)
+    d
     
-# User Story
-    AS A developer
-    I WANT a README generator
-    SO THAT I can quickly create a professional README for a new project
+    Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
+    
+## User Story
 
-# Acceptance Criteria
-# [Back to Table of Contents](#Table-of-Contents)
+### Acceptance Criteria
+    ###### [Back to Table of Contents](#Table-of-Contents)
     1.   I a command-line application that accepts user input.
     2.   I want to be prompted for information about my application repository.
     3.   I want a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contribution Guidelines, Tests Instructions, and Questions.
@@ -31,19 +30,34 @@
     8.   I want to enter my email address; and then this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions.
     9.   I want to click on the links in the Table of Contents; and then, I am taken to the corresponding section of the README.
     
-# Contribution Guidelines
-# [Back to Table of Contents](#Table-of-Contents)
-    none
+### Contribution Guidelines
+    ###### [Back to Table of Contents](#Table-of-Contents)
+    d
     
 
-# Overview: What We Accomplished!
-  
-# Screenshots (Building this application)
-# [Back to Table of Contents](#Table-of-Contents)
-  
-    
-# License
-    None
+## Overview: What We Accomplished!
+    ### Workflow [Back to Table of Contents](#Table-of-Contents)
+    d
     
     
-    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+### Screenshots (Building this application)
+    ###### [Back to Table of Contents](#Table-of-Contents)
+    #### Demo I createad ![script.js](d)
+    
+    #### Demo I createad ![fileGenerator.js](undefined)
+    
+   
+    
+    
+   
+    
+## Repositiory End-Goal Criterea
+    ###### [Back to Table of Contents](#Table-of-Contents)
+    d
+    
+    ## License
+    APACHE 2.O
+    
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
