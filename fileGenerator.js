@@ -9,11 +9,11 @@ function fileGenerator(response) {
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Contribution Guidelines](#Contribution-Guidelines)
 * [License](#License)
-
+* [Test](#test)
     
 # Installation
 ###### [Back to Table of Contents](#Table-of-Contents)
-${response.installation}
+    ${response.installation}
 
 # Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
@@ -21,8 +21,11 @@ ${response.installation}
     
 ## References
 ###### [Back to Table of Contents](#Table-of-Contents)
-    1.  ${response.ref1}
-       
+    ${response.ref1}
+
+## Test
+###### [Back to Table of Contents](#Table-of-Contents)
+    ${response.test}
     
 ## User Story
 

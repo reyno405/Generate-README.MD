@@ -36,10 +36,15 @@ let questions = [
         type: "input",
         message: "Please describe the repository.",
         name: "description"
-    }, {
+    },{
         type: "input",
         message: "Please supply one references (1/1).",
         name: "ref1"
+    },
+     {
+        type: "input",
+        message: "What command should be run to run tests?",
+        name: "test"
     }, {
         type: "input",
         message: "What are the steps required to install your project?",
