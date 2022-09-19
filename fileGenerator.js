@@ -9,7 +9,7 @@ function fileGenerator(response) {
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Contribution Guidelines](#Contribution-Guidelines)
 * [License](#License)
-* [Screenshots](#screenshots)
+
     
 # Installation
 ###### [Back to Table of Contents](#Table-of-Contents)
@@ -48,9 +48,7 @@ ${response.installation}
     ${response.accomplish}
     
     
-### Screenshots (Building this application)
-###### [Back to Table of Contents](#Table-of-Contents)
-    ${response.screenshots}
+
     
   
 ## Repositiory End-Goal Criterea

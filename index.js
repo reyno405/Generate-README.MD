@@ -54,10 +54,6 @@ let questions = [
         name: "accomplish"
     }, {
         type: "input",
-        message: "Please state provide a screenshot.",
-        name: "scriptjs"
-    }, {
-        type: "input",
         message: "Please state your end-goal.",
         name: "endgoal"
     }

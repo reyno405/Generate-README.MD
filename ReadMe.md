@@ -1,6 +1,6 @@
-# f
-##### undefined[f](f) [Email Me](f) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
-#### ReadMeGenerator© 2022 All Rights Reserved.  APACHE 2.O All material must be cited or credited, when using material (free to use).
+# README
+##### undefined[reyno405](https://github.com/reyno405) [Email Me](reyno405@gmail.com) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
+#### ReadMeGenerator© 2022 All Rights Reserved.  None All material must be cited or credited, when using material (free to use).
     
 ## Table of Contents
 * [Repository Description](#Repository-Description)
@@ -8,19 +8,19 @@
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Contribution Guidelines](#Contribution-Guidelines)
 * [License](#License)
-* [Screenshots](#screenshots)
+
     
 # Installation
 ###### [Back to Table of Contents](#Table-of-Contents)
-f
+The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module.
 
 # Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
-    f
+    This application was created to generate a high-quality, professional README depending on a series of questions a user answers in their command line using Node.js
     
 ## References
 ###### [Back to Table of Contents](#Table-of-Contents)
-    1.  f
+    1.  NPMjs provides Documentation, Installation, Examples, Methods, Objects, Questions, Answers, Separator, Prompt Types, User Interfaces and Layouts, Reactive Interface, Support, Known issues, News, Contributing, License, and Plugins. This was the core of this project; so be sure to view this resource, for your own future developments
        
     
 ## User Story
@@ -39,26 +39,24 @@ f
     
 ### Contribution Guidelines
 ###### [Back to Table of Contents](#Table-of-Contents)
-    f
+    none
     
 
 ## Overview: What We Accomplished!
 ###### [Back to Table of Contents](#Table-of-Contents)
-    f
+    Creating a README generator
     
     
-### Screenshots (Building this application)
-###### [Back to Table of Contents](#Table-of-Contents)
-    undefined
+
     
   
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
-    d
+    Stay on task, Get Ahead, Change The World!
     
 ## License
 ###### [Back to Table of Contents](#Table-of-Contents)
-    APACHE 2.O
+    None
     
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
     
