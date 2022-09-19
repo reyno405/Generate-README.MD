@@ -1,14 +1,14 @@
-# Generate-README.MD
+# README
 # undefined[reyno405](https://github.com/reyno405) [Email Me](reyno405@gmail.com)
 # ReadMeGenerator© 2022 All Rights Reserved.  None All material must be cited or credited, when using material (free to use).
     
 # Table of Contents
-    * [Repository Description](#Repository-Description)
-    * [Installation Instructions](#Install)
-    * [Usage Information](#Usage)
-    *[References](#Ref)
-    * [Repositiory End-Goal Criterea](#Criterea)
-    * [Future Project](#Future-Project)
+    
+# [Repository Description](#Repository-Description)
+# [Installation Instructions](#Install)
+# [Usage Information](#Usage)
+# [Repositiory End-Goal Criterea](#Criterea)
+    
     
 # Repository Description
 # [Back to Table of Contents](#Table-of-Contents)
