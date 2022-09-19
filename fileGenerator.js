@@ -5,11 +5,7 @@ function fileGenerator(response) {
     
 ## Table of Contents
 * [Repository Description](#Repository-Description)
-* [Installation Instructions](#Install)
-* [Usage Information](#Usage)
-* [References](#Ref)
-* [Repositiory End-Goal Criterea](#Criterea)
-* [Future Project](#Future-Project)
+
     
 # Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
@@ -20,7 +16,7 @@ function fileGenerator(response) {
 ## User Story
 
 ### Acceptance Criteria
-    ###### [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
     1.   I a command-line application that accepts user input.
     2.   I want to be prompted for information about my application repository.
     3.   I want a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contribution Guidelines, Tests Instructions, and Questions.
