@@ -1,7 +1,6 @@
-function fileGenerator(response) {
-    var content = `# ${response.title}
-    ##### ${response.logo}[${response.userName}](${response.GitHub}) [Email Me](${response.email}) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
-    #### ReadMeGenerator© 2022 All Rights Reserved.  ${response.license} All material must be cited or credited, when using material (free to use).
+# f
+    ##### ff[f](f) [Email Me](f) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
+    #### ReadMeGenerator© 2020 All Rights Reserved.  APACHE 2.O All material must be cited or credited, when using material (free to use).
     
     ## Table of Contents
     * [Repository Description](#Repository-Description)
@@ -13,7 +12,9 @@ function fileGenerator(response) {
     
     # Repository Description
     ###### [Back to Table of Contents](#Table-of-Contents)
-    ${response.description}
+    f
+    
+    Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
     
     ## User Story
     ### As the Quiz Administrator
@@ -30,41 +31,44 @@ function fileGenerator(response) {
     
     ### Contribution Guidelines
     ###### [Back to Table of Contents](#Table-of-Contents)
-    ${response.contribute}
+    f
     
-
+    
+    ## Test Instructions
+    ###### [Back to Table of Contents](#Table-of-Contents)
+    1.  undefined
+    2.  undefined
+    3.  undefined
+    
+    
     ## Overview: What We Accomplished!
     ### Workflow [Back to Table of Contents](#Table-of-Contents)
-    ${response.accomplish}
+    undefined
     
     
     ### Screenshots (Building this application)
     ###### [Back to Table of Contents](#Table-of-Contents)
-    #### Demo I createad ![script.js](${response.scriptjs})
+    #### Demo I createad ![script.js](undefined)
     
-    #### Demo I createad ![fileGenerator.js](${response.fileGnerator})
+    #### Demo I createad ![fileGenerator.js](undefined)
     
-    #### Demo I createad ![ReadMe.md](${response.ReadMe})
+    #### Demo I createad ![ReadMe.md](undefined)
     
     
     ## References
     ###### [Back to Table of Contents](#Table-of-Contents)
-    1.  ${response.ref1}
+    1.  undefined
     
-    2.  ${response.ref2}
+    2.  undefined
     
     ## Repositiory End-Goal Criterea
     ###### [Back to Table of Contents](#Table-of-Contents)
-    ${response.endgoal}
+    undefined
     
     ## License
-    ${response.license}
+    APACHE 2.O
     
     
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
     
-    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.`
-    return content;
-};
-
-module.exports = fileGenerator;
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
