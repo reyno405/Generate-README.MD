@@ -1,8 +1,8 @@
 # Generate-README.MD
-    ##### undefined[reyno405](https://github.com/reyno405) [Email Me](reyno405@gmail.com)
-    #### ReadMeGenerator© 2022 All Rights Reserved.  None All material must be cited or credited, when using material (free to use).
+# undefined[reyno405](https://github.com/reyno405) [Email Me](reyno405@gmail.com)
+# ReadMeGenerator© 2022 All Rights Reserved.  None All material must be cited or credited, when using material (free to use).
     
-    ## Table of Contents
+# Table of Contents
     * [Repository Description](#Repository-Description)
     * [Installation Instructions](#Install)
     * [Usage Information](#Usage)
@@ -11,16 +11,16 @@
     * [Future Project](#Future-Project)
     
 # Repository Description
-###### [Back to Table of Contents](#Table-of-Contents)
+# [Back to Table of Contents](#Table-of-Contents)
     This application was created to generate a high-quality, professional README depending on a series of questions a user answers in their command line using Node.js
     
-## User Story
+# User Story
     AS A developer
     I WANT a README generator
     SO THAT I can quickly create a professional README for a new project
 
-### Acceptance Criteria
-###### [Back to Table of Contents](#Table-of-Contents)
+# Acceptance Criteria
+# [Back to Table of Contents](#Table-of-Contents)
     1.   I a command-line application that accepts user input.
     2.   I want to be prompted for information about my application repository.
     3.   I want a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contribution Guidelines, Tests Instructions, and Questions.
@@ -31,18 +31,18 @@
     8.   I want to enter my email address; and then this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions.
     9.   I want to click on the links in the Table of Contents; and then, I am taken to the corresponding section of the README.
     
-### Contribution Guidelines
-###### [Back to Table of Contents](#Table-of-Contents)
+# Contribution Guidelines
+# [Back to Table of Contents](#Table-of-Contents)
     none
     
 
-## Overview: What We Accomplished!
+# Overview: What We Accomplished!
   
-### Screenshots (Building this application)
-###### [Back to Table of Contents](#Table-of-Contents)
+# Screenshots (Building this application)
+# [Back to Table of Contents](#Table-of-Contents)
   
     
-## License
+# License
     None
     
     
