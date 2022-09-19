@@ -1,6 +1,6 @@
 # d
-    ##### undefined[d](d) [Email Me](d) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
-    #### ReadMeGenerator© 2022 All Rights Reserved.  APACHE 2.O All material must be cited or credited, when using material (free to use).
+##### undefined[d](d) [Email Me](d) [Deployed Application](https://www.youtube.com/channel/UCzyohHEJNSqklS1bwxmuVaA)
+#### ReadMeGenerator© 2022 All Rights Reserved.  APACHE 2.O All material must be cited or credited, when using material (free to use).
     
 ## Table of Contents
 * [Repository Description](#Repository-Description)
@@ -14,7 +14,7 @@
 ###### [Back to Table of Contents](#Table-of-Contents)
     d
     
-    Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
+    
     
 ## User Story
 
@@ -36,15 +36,15 @@
     
 
 ## Overview: What We Accomplished!
-    ### Workflow [Back to Table of Contents](#Table-of-Contents)
+### Workflow [Back to Table of Contents](#Table-of-Contents)
     d
     
     
 ### Screenshots (Building this application)
-    ###### [Back to Table of Contents](#Table-of-Contents)
-    #### Demo I createad ![script.js](d)
+###### [Back to Table of Contents](#Table-of-Contents)
+#### Demo I createad ![script.js](d)
     
-    #### Demo I createad ![fileGenerator.js](undefined)
+#### Demo I createad ![fileGenerator.js](undefined)
     
    
     
